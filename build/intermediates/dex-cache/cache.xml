@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sunshaogang/workspace/workspace-idea/workspace/ZrcListViewDemo/zrcListViewDemo/build/intermediates/exploded-aar/ZrcListViewDemo/zrcListView/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7533de3f3a60d292566779139e84baf8e344fcb0">
+        <dex dex="/home/sunshaogang/workspace/workspace-idea/workspace/ZrcListViewDemo/zrcListViewDemo/build/intermediates/pre-dexed/debug/classes-f5d5cb34af45c108a59125b1596abfa098905213.jar" />
+    </item>
+    <item
+        jar="/home/sunshaogang/workspace/sdk/sdk-google/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/sunshaogang/workspace/workspace-idea/workspace/ZrcListViewDemo/zrcListViewDemo/build/intermediates/pre-dexed/debug/support-v4-19.1.0-62d21b2cde301977bcfef7c757f66ba08e438ab4.jar" />
+    </item>
+
+</items>

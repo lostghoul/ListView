@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZrcListViewDemo.iml" filepath="$PROJECT_DIR$/ZrcListViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zrcListView/zrcListView.iml" filepath="$PROJECT_DIR$/zrcListView/zrcListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zrcListViewDemo/zrcListViewDemo.iml" filepath="$PROJECT_DIR$/zrcListViewDemo/zrcListViewDemo.iml" />
+    </modules>
+  </component>
+</project>
+

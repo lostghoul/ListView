@@ -1,0 +1,3 @@
+/home/sunshaogang/workspace/workspace-idea/workspace/ZrcListViewDemo/zrcListViewDemo/build/intermediates/classes/debug
+/home/sunshaogang/workspace/workspace-idea/workspace/ZrcListViewDemo/zrcListViewDemo/build/intermediates/pre-dexed/debug/classes-f5d5cb34af45c108a59125b1596abfa098905213.jar
+/home/sunshaogang/workspace/workspace-idea/workspace/ZrcListViewDemo/zrcListViewDemo/build/intermediates/pre-dexed/debug/support-v4-19.1.0-62d21b2cde301977bcfef7c757f66ba08e438ab4.jar
